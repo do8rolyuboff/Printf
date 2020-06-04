@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello, World!");
-    ft_printf("Hello, World!");
+    printf("Hello, World!\n");
+    ft_printf("Hello, World!\n");
 }
