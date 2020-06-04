@@ -6,7 +6,7 @@
 Этот проект я делал вместе с [Calpha](https://github.com/semenpindak).
 [ft_printf](https://github.com/do8rolyuboff/ft_printf/blob/master/others/ft_printf.pdf) - цель проекта перекодировать функцию печати [`printf`](https://ru.wikipedia.org/wiki/Printf) библиотеки `<stdio.h>`.
 
-### Наш `ft_printf` работает со спецификаторами:
+### Наш ft_printf работает со спецификаторами:
 %c - Символ
 %d, %i - Десятичное целое число со знаком
 %f - Десятичное число с плавающей точкой
