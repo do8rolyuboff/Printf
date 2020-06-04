@@ -32,9 +32,13 @@
 
 ## Как проверить ft_printf?
 `git clone https://github.com/do8rolyuboff/ft_printf.git`
+
 `cd ft_printf`
+
 `make`
+
 Makefile создаст libftprintf.a
 В репозитории есть `main.c`:
+
 `gcc main.c libftprintf.a` 
 
