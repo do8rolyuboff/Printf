@@ -3,6 +3,7 @@
 Целью этого проекта было перекодировать функцию printf.
 ## Что такое ft_printf?
 [ft_printf](https://github.com/do8rolyuboff/ft_printf/blob/master/others/ft_printf.pdf) - цель проекта перекодировать функцию печати [`printf`](https://ru.wikipedia.org/wiki/Printf) библиотеки `<stdio.h>`.
+
 Этот проект я делал вместе с [Calpha](https://github.com/semenpindak).
 
 ### Наш ft_printf работает со спецификаторами:
