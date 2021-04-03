@@ -54,6 +54,7 @@
 `make`
 
 Makefile создаст libftprintf.a
+
 В репозитории есть `main.c`:
 
 `gcc main.c libftprintf.a` 
